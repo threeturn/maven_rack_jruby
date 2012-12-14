@@ -1,0 +1,1 @@
+GEM_PATH=`pwd`/lib/jruby mvn exec:java
